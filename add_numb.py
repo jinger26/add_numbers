@@ -4,8 +4,9 @@ def add_two(a,b):
 	return a+b
 
 def main():
-    print ("2+3+10 = ", add_two(2,3,10))
+    print ("1+2+10 = ", add_three(1,2))
 
 if __name__ =="__main__":
     main()
+    print 'EMILY'
 
